@@ -1,0 +1,10 @@
+# pixi environments
+.pixi/*
+!.pixi/config.toml
+
+# Runs are ignored, except the poster's run
+/results/*
+!/results/flash_regret/
+/results/flash_regret/*
+!/results/flash_regret/poster/
+__pycache__/

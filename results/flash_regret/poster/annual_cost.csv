@@ -1,0 +1,6 @@
+Method,"Annual cost, 10 trials ($k)","Purity y1, 10 trials"
+Ideal mixture,558.907,0.777598
+LHS,152.1,0.668552
+Standard BO,119.6,0.666058
+Hybrid BO,52.0405,0.65976
+Optimum (reference),52.0404,0.659758
